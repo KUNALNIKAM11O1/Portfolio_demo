@@ -1,4 +1,4 @@
-import Projectdata from "./project_data";
+import Projectdata from "./Projectdata";
 
 const Projects=()=>{
     return(
